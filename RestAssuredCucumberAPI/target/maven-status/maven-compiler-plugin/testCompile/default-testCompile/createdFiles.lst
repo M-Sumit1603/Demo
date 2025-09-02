@@ -1,0 +1,3 @@
+stepDefinitions\PostsSteps.class
+com\api\testing\AppTest.class
+runners\TestRunner.class
